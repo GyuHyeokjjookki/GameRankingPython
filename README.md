@@ -50,7 +50,7 @@
 
 ### `GameTrics`
 
-- 데이터 획득 : 게임트릭스에서는 pc방 점유율을 기준으로 순위를 정한.
+- 데이터 획득 : 게임트릭스에서는 pc방 점유율을 기준으로 순위를 정한다.
 <p align="center">
   <img src="https://github.com/GyuHyeokjjookki/GameRankingPython/assets/112180318/5fdbe65c-97eb-4a54-b973-30fd2832c99d" width="400" height="400">
 </p>
