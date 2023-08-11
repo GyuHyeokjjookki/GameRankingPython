@@ -6,3 +6,16 @@
 
 ## 기술 스택
 jupyterNotebook, Python - beautifulSoup,pandas
+
+### `Steam`
+
+- 데이터 획득 : 스팀의 게임 순위는 해당 게임의 동접자 수를 기준으로 한다.
+- 이미지 파일 위치
+
+### `GameMeca`
+
+이미지 위치
+
+### `newzoo`
+
+### `GameTrics`
